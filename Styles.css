@@ -1,0 +1,54 @@
+li {
+    float: left;
+  }
+  li {
+    text-align: center;
+    padding: 15px;
+  }
+  th, td {
+    border: 1px solid lightgray;
+  }
+
+  table{
+    width:100%;
+  }
+
+  body{
+    width:100%;
+    margin:0px;
+  }
+
+  h1{
+    font-size:50px;
+    text-align:center;
+    color:white;
+    text-indent: 1em;
+  }
+
+  h2{
+    text-align:left;
+    text-indent: 0.25em;
+  }
+
+  p{
+    font-weight:200;
+    font-family:verdana;
+    text-align:left; 
+    text-indent: 0.25em; 
+    align:justify;
+  }
+
+  pre{
+    font-weight:200;
+    font-family:verdana;
+    text-align:left; 
+    text-indent: 0.75em; 
+    align-content:justify;
+  }
+
+  li{
+    text-align:left;
+    font-weight:200;
+    font-family:verdana;
+    display:inline;
+  }
